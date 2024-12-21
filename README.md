@@ -2,7 +2,7 @@
 
 ## Luca Chiappa è un giovane programmatore e sviluppatore di pagine web
 
-## Stack Tecnologici
+# Stack Tecnologici
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" width="50px" />
