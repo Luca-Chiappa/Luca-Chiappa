@@ -1,5 +1,7 @@
 # Luca Chiappa
 
+## Luca Chiappa è un giovane programmatore e sviluppatore di pagine web
+
 ## Stack Tecnologici
 
 <p align="left">
