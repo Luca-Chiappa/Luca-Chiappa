@@ -1,29 +1,27 @@
 # Luca Chiappa
 
-## Benvenuti nel mio Profilo GitHub
-
-Ciao! Sono Luca Chiappa, uno sviluppatore appassionato di tecnologia e programmazione e attualmente sto conseguendo un corso di Java.
+## Sono Luca, un giovane programmatore e sviluppatore web con la passione per l'informatica, attualmente sto facendo un coros di JAVA
 
 ## Stack Tecnologici
 
 ### C++
-![C++ Logo](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png)
-
-### HTML
-![HTML Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
-
-### CSS
-![CSS Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
-
-### JavaScript
-![JavaScript Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-
-### Dart & Flutter
-![Dart Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg)
-![Flutter Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" width="50px" />
 
 ### Python
-![Python Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="50px" />
+
+### HTML
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML Logo" width="50px" />
+
+### CSS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS Logo" width="50px" />
+
+### JavaScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50px" />
+
+### Dart & Flutter
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart Logo" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="50px" />
 
 ### Swift
-![Swift Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift Logo" width="50px" />
