@@ -19,5 +19,5 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" width="50px" />
-  <img src="https://www.google.com/search?client=ms-android-samsung-ss&sca_esv=55e3191352ac5614&sxsrf=ADLYWIJOqGPQv847dzLzCn1sgQJYaVfodg:1735150218325&q=logo+tailwind+css&udm=2&fbs=AEQNm0Be9hsxO5zOUoY5v2srYNPRIvTz_02aG-_CVE5t-hWDE6W1VjpbTSIBckKE9TyWOFFRtFNW8rpCtNHLM5EEmxbH8at1KWtisFxypQp7lq62u8Di1u7ZhE61_KyPzHDNee5jKG1-ZNVBPRAp1mMUoGB3l89sAMpdV2WnuIHha8uVcxcbFxrKPtR6yierk7tdZfsSEM4g&sa=X&ved=2ahUKEwjcrZSjwsOKAxWW9LsIHdHyEf8QtKgLegQIDRAB&biw=384&bih=718&dpr=2.81"alt="Tailwind CSS Logo" width="50px" />
+  <img src= "" alt="Tailwind CSS Logo" width="50px" />
 </p>
