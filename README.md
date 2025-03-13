@@ -1,6 +1,6 @@
 # Luca Chiappa
 
-## Luca Chiappa, junior web developer fullstack con basi di progremmazine software in c++
+## Luca Chiappa, junior web developer fullstack con basi di programmazine software in c++
 
 # Stack Tecnologici
 
