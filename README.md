@@ -1,6 +1,6 @@
 # Luca Chiappa
 
-## Luca Chiappa è un giovane programmatore e sviluppatore di pagine web
+## Luca Chiappa, junior web developer fullstack con basi di progremmazine software in c++
 
 # Stack Tecnologici
 
