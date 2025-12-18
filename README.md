@@ -1,6 +1,6 @@
 # Luca Chiappa
 
-## Luca Chiappa, junior web developer fullstack con basi di programmazine software in c++
+## Luca Chiappa, junior web developer fullstack con basi di programmazine software in Java
 
 # Stack Tecnologici
 
@@ -26,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" width="50px" />
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50px" />
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50px"/>
 </p>
 
 # Database 
